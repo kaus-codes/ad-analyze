@@ -1,4 +1,4 @@
-# Mobile Ad Event QA Dashboard
+# Mobile ad dashbord (event based)
 
 A Python-based mobile advertising event validation and QA analytics project built using FastAPI, SQLite, SQL, Tableau, and Pytest.
 
